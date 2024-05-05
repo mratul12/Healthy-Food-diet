@@ -628,6 +628,9 @@ section{
     #menu{
         display: inline-block;
     }
+    #wait{
+        overflow: hidden;
+    }
 
     .header .navbar{
         position: absolute;
