@@ -117,7 +117,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(./Image/bg_Image.jpeg) no-repeat;
+    background: url(https://github.com/mratul12/Healthy-Food-diet/blob/main/Image/bg_Image.jpeg?raw=true) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -514,7 +514,7 @@ section{
 /* newsletter starts */
 
 .newsletter{
-    background: url(./Image/healthyfood_bottom.jpeg) no-repeat;
+    background: url(https://github.com/mratul12/Healthy-Food-diet/blob/main/Image/healthyfood_bottom.jpeg?raw=true) no-repeat;
     background-position: center;
     background-size: cover;
 }
